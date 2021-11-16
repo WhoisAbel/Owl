@@ -4,6 +4,7 @@
 
 ## Introduction
 This project is an Android implementation of [Owl](https://material.io/design/material-studies/owl.html), a Material Study showcasing the possibilities of using Material Theming and Material Components for Android.
+This repository fork form [Owl Github](https://github.com/material-components/material-components-android-examples/tree/develop/Owl), just implement for deep learning.
 
 ## Screenshots
 <img src="screenshots/owl_demo.gif" height="400" alt="Owl sample demo"/>
