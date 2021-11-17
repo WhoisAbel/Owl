@@ -1,7 +1,8 @@
-package whoisAbel.com.owl
+package whoisAbel.com.owl.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import whoisAbel.com.owl.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
